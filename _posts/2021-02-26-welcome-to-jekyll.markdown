@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Downtown Party Town!"
 date:   2021-02-26 14:46:41 -0800
 categories: jekyll update
 ---
