@@ -21,7 +21,7 @@
 title: Peter Hames
 email: blah@blah.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The future of healthcarer, digital therapeutics, and mental health.
+  The future of healthcare, digital therapeutics, and mental health.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phames
